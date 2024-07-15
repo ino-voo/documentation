@@ -20,20 +20,22 @@ Finanzas
 - [ ] [[Localizaciones fiscales]]
 
 Ventas
-    - [CRM](https://www.odoo.com/documentation/17.0/es/applications/sales/crm.html)
-    - [Ventas](https://www.odoo.com/documentation/17.0/es/applications/sales/sales.html)
-    - [Punto de venta](https://www.odoo.com/documentation/17.0/es/applications/sales/point_of_sale.html)
-    - [Suscripciones](https://www.odoo.com/documentation/17.0/es/applications/sales/subscriptions.html)
-    - [Alquiler](https://www.odoo.com/documentation/17.0/es/applications/sales/rental.html)
-    - [Members](https://www.odoo.com/documentation/17.0/es/applications/sales/members.html)
-- [Sitios web](https://www.odoo.com/documentation/17.0/es/applications.html#)
-    - [Sitio web](https://www.odoo.com/documentation/17.0/es/applications/websites/website.html)
-    - [Comercio electrónico](https://www.odoo.com/documentation/17.0/es/applications/websites/ecommerce.html)
-    - [eLearning](https://www.odoo.com/documentation/17.0/es/applications/websites/elearning.html)
-    - [Foro](https://www.odoo.com/documentation/17.0/es/applications/websites/forum.html)
-    - [Blog](https://www.odoo.com/documentation/17.0/es/applications/websites/blog.html)
-    - [Chat en vivo](https://www.odoo.com/documentation/17.0/es/applications/websites/livechat.html)
-- [Cadena de suministro](https://www.odoo.com/documentation/17.0/es/applications.html#)
+	- [ ] [[CRM]]
+	- [ ] [[Ventas]]
+	- [ ] [[Punto de venta]]
+	- [ ] [[Suscripciones]]
+	- [ ] [[Alquiler]]
+	- [ ] [[Members]]
+
+Sitios web
+- [ ] [[Sitio web]]
+- [ ] [[Comercio electrónico]]
+- [ ] [[eLearning]]
+- [ ] [[Foro]]
+- [ ] [[Blog]]
+- [ ] [[Chat en vivo]]
+- [ ] 
+Cadena de suministro
     - [Inventario](https://www.odoo.com/documentation/17.0/es/applications/inventory_and_mrp/inventory.html)
     - [Fabricación](https://www.odoo.com/documentation/17.0/es/applications/inventory_and_mrp/manufacturing.html)
     - [Compra](https://www.odoo.com/documentation/17.0/es/applications/inventory_and_mrp/purchase.html)
