@@ -6,7 +6,7 @@ title: Welcome to Odoo
 Descubra nuestras guías de usuario y tutoriales de configuración por aplicación.
 
 Fundamentos de Odoo
-- [ ] [[Actividades]]
+- [x] [[Actividades]]
 - [ ] [[quartz/content/Documentos/4. Sitios web/Chat en vivo/Reportes|Reportes]]
 - [ ] [[Buscar, filtrar y agrupar registros]]
 - [ ] [[Contactos]]
@@ -15,7 +15,7 @@ Fundamentos de Odoo
 
 Finanzas
 - [ ] [[Contabilidad y facturación]]
-- [ ] [[Gastos]]
+- [x] [[Gastos]]
 - [ ] [[Pagos en línea]]
 - [ ] [[Localizaciones fiscales]]
 

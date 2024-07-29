@@ -1,3 +1,4 @@
+
 Todas las bases de datos de Odoo ya vienen con la aplicación _Contactos_ instalada de forma predeterminada. Los contactos se crean para cada persona con la que usted trabaja a través de Odoo, como sus clientes. Un contacto es un repositorio de información empresarial vital con la que se facilita la comunicación y las transacciones empresariales.
 
 ## Formulario de contacto[](https://www.odoo.com/documentation/17.0/es/applications/essentials/contacts.html#contact-form "Enlazar permanentemente con este título")
